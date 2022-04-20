@@ -124,7 +124,7 @@ and believing it would be right for him to return to the vicinity of his father`
 he accordingly removed, and in a few years after married his second wife, Ellin Roberts,
 of Uwchlan, in the year 1777.
 While sitting at the table on the day of his marriage,
-he expressed himself nearly as follows, viz:--"`I feel a freedom to express my thoughts.
+he expressed himself nearly as follows, viz.:--"`I feel a freedom to express my thoughts.
 Marriages are commonly places of rejoicing; but when we look at what is to come,
 we find but little room to rejoice in transitory things.
 
@@ -231,9 +231,11 @@ sent under guard as prisoners to Princeton, where they were examined by the gove
 (Livingston), and council, being supposed to be guilty of treason;
 before whom he made the following defense, viz.
 
-The Words of a Prisoner Who had Liberty by the Governor
-and Council to Speak in His Own Defense,
-Supposed by Law to be Guilty of Death
+[.embedded-content-document]
+--
+
+[.blurb]
+=== The Words of a Prisoner Who had Liberty by the Governor and Council to Speak in His Own Defense, Supposed by Law to be Guilty of Death
 
 I am glad of liberty to speak in my own defense before the Governor and his council.
 I hope you are moderate, considerate men,
@@ -393,10 +395,12 @@ and liberty in it to go back to Plainfield, Rahway, Shrewsbury, Squan, Squankum,
 Barnegat, Egg Harbours, and Cape May, from whence I intend to go home,
 if the Lord permit.
 
+--
+
 It would seem as though this was all that he said;
 but his humility has operated to the suppression
 of what he further expressed to the council;
-viz: that, if his visit should be judged a capital offense,
+viz.: that, if his visit should be judged a capital offense,
 which must be punished with death, he only might suffer,
 and his companion be permitted to go home,
 as his only motive was merely to accompany him in the journey.
@@ -407,8 +411,13 @@ in a time of extreme difficulty and peril, freely,
 and with that magnanimity which ever accompanies genuine benevolence,
 granted the following pass, viz.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Princeton, 26th May, 1778.
 
+[.letter-heading]
 Council of Safety, State of New Jersey
 
 Abel Thomas and James Thomas, inhabitants of Pennsylvania,
@@ -435,7 +444,10 @@ society in the exercise of their religion,
 the said Abel and James Thomas are permitted to pass to the nine places last mentioned,
 and then to the state of Pennsylvania.
 
-William Livingston, President.
+[.signed-section-signature]
+William Livingston, _President._
+
+--
 
 Some time after his return home,
 his mind was drawn in the love of the gospel to several places in Pennsylvania,
@@ -451,10 +463,15 @@ murderous banditti, who, for the sake of plunder,
 frequently shot down innocent people as they were riding along the roads.
 When at Camden, in South Carolina, they were taken up as prisoners by the American army.
 Being kept with the soldiery several days they at length obtained a discharge,
-as appears by the following extract of a narrative which he sent to his friends, viz;
+as appears by the following extract of a narrative which he sent to his friends, viz.;
 
+[.embedded-content-document]
+--
+
+[.blurb]
 To Friends of Exeter Monthly Meeting, Berks County, Pennsylvania
 
+[.salutation]
 Dear Friends,--
 
 I believe it my duty to give you a short account of the
@@ -552,11 +569,16 @@ I desire to be enabled to return to South Carolina, if not to Georgia,
 visiting my friends; and if I should return through this army,
 when thou seest me ride on, then remember what I tell thee now.`"
 
-Officer.--If you return here again, you may expect severity.
+[.discourse-part]
+_Officer._--If you return here again, you may expect severity.
 
-Answer.--I do not fear what your army can do to me,
+[.discourse-part]
+_Answer._--I do not fear what your army can do to me,
 for I know that you can have no power over this body,
 except you receive it from above for some good end.
+
+[.small-break]
+'''
 
 He then looked me full in the face, and perhaps saw the tears begin to run down my cheeks.
 He gave me his hand, and wished me a good journey, got on his horse, and rode off.
@@ -599,9 +621,13 @@ we have travelled together in love as brethren in tribulation.
 
 My love to you all, my friends and neighbours.
 
+[.signed-section-signature]
 Abel Thomas.
 
+[.signed-section-context-close]
 New Garden, North Carolina, Fifth month 6th, 1781.
+
+--
 
 After being some time in the vicinity of New Garden, North Carolina, Amos Lee,
 finding his mind released from further prosecution of the journey, it was their judgment,
@@ -618,6 +644,9 @@ the fulfilment of his prospects of religious duty,
 proceeded to South Carolina, where the trials of faith,
 and the remarkable deliverances vouchsafed to him, in this perilous travel,
 are in some degree set forth in the following relation.
+
+[.embedded-content-document]
+--
 
 In a thankful sense of preservation by a strong arm through many dangers and deep conflicts,
 both within and without,
@@ -789,10 +818,13 @@ A day soon appeared for me to travel on, and also to write a letter to general G
 who was then about thirty miles off, fighting against Ninety-six.
 He soon read my letter, and granted my request, as follows:
 
-Mr. Abel Thomas, and Mr. Thomas Winslow, Long-cane
+[.blurb]
+=== Mr. Abel Thomas, and Mr. Thomas Winslow, Long-cane
 
+[.signed-section-context-open]
 Camp, before Ninety-six, June 7th, 1781.
 
+[.salutation]
 Gentlemen,--
 
 Your letter of the 6th is before me.
@@ -813,13 +845,22 @@ not inconsistent with the public good.
 
 I am, gentlemen, your most obedient humble servant,
 
+[.signed-section-signature]
 Nathaniel Green.
 
+[.signed-section-context-close]
 Head-Quarters, June 7th, 1781.
+
+[.postscript]
+====
 
 Abel Thomas has General Green`'s permission to pass and repass through this country,
 behaving with propriety.
-Nathaniel Pendleton, Aid de Camp.
+
+[.signed-section-signature]
+Nathaniel Pendleton, _Aid de Camp._
+
+====
 
 [.asterism]
 '''
@@ -890,9 +931,13 @@ I have left it to the judgment of my brethren.
 My Master had a service for me there, and I trusted my life in his hand, travelled on,
 and so obtained a reward which is more precious than gold.
 
+[.signed-section-signature]
 Abel Thomas.
 
+[.signed-section-context-close]
 Seventh month 7th, 1781.
+
+--
 
 He was favoured to return to his family and friends in peace,
 and delivered up his certificate, +++[+++and]
@@ -905,10 +950,15 @@ he was very often from home on this weighty service.
 In 1799,
 while engaged in a visit of gospel love to the southern
 states he wrote the following letter to his wife,
-viz:
+viz.:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Second month 19th, 1799, just returned from the Tennessee country, towards New Garden.
 
+[.salutation]
 Dear Ellin,--
 
 I received thy letter last first-day three weeks, at Reuben`'s creek, in South Carolina,
@@ -1040,7 +1090,10 @@ how should I who do love them so well, bear the mournful sight?
 It would be likely to bring down my bald head with sorrow to the grave.
 From thy loving husband, with love to my dear children.
 
+[.signed-section-signature]
 Abel Thomas.
+
+--
 
 In 1801, he removed with his family to Monallen, in Adams county, Pennsylvania,
 and whilst a member there, was also diligently engaged in the work of the ministry,
@@ -1048,8 +1101,13 @@ both at home and abroad.
 While engaged in a religious visit to New York and Pennsylvania,
 he wrote the following letter to his wife, viz.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Hudson City, 19th of Twelfth month.
 
+[.salutation]
 Dear Ellin,--
 
 I thought to have written to thee before this time, but have had no safe opportunity.
@@ -1159,15 +1217,23 @@ From what I have been told,
 there are sixty before me in New York government and Pennsylvania.
 It is not likely you will see me home before the last of the second month.
 
+[.signed-section-signature]
 Abel Thomas.
+
+--
 
 In 1812, he visited the meetings in New Jersey,
 and in 1813 performed an extensive journey in the service of the gospel,
 in the northern and eastern states.
 While engaged in this, he wrote the following:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fifth month 3rd, 1813.
 
+[.salutation]
 Dear Ellin,--
 
 I am in good health, and do not know that I ever felt the depth of gratitude,
@@ -1289,11 +1355,18 @@ and I do intend to send one to thee.
 
 I may say, thou art my most endeared friend in the world.
 
+[.signed-section-signature]
 Abel Thomas.
+
+--
 
 At the close of the New York Yearly meeting, about the beginning of the sixth month,
 he wrote:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Ellin,--
 
 I am in New York, in good health.
@@ -1357,11 +1430,18 @@ if I do not return home before the next winter.
 My love to thee is deep and sincere.
 Also to my dear children, all equally beloved of their ancient father,
 
+[.signed-section-signature]
 Abel Thomas.
 
-From Providence, under date of tenth month 1st, 1813,
-he wrote to the Friends in Philadelphia with whom he stayed when in that city; viz:
+--
 
+From Providence, under date of tenth month 1st, 1813,
+he wrote to the Friends in Philadelphia with whom he stayed when in that city; viz.:
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Beloved Friends,--
 
 I am at this time at Providence, Rhode Island, in good health,
@@ -1510,7 +1590,10 @@ I must conclude with a great deal of love; tell thy smart little boy,
 that the old friend is yet travelling about, and has not since been at home;
 that he remembers his love to him, and wishes him to be a good boy.
 
+[.signed-section-signature]
 Abel Thomas.
+
+--
 
 Thus, with small intermissions,
 he was assiduously labouring to promote the cause of his Divine Master,
